@@ -1,0 +1,20 @@
+[
+    {
+        "id": "variables",
+        "title": "Variables",
+        "summary": "Variables are containers for storing data values. In Python, a variable is created the moment you first assign a value to it. They allow you to label data with a descriptive name, making your programs more understandable to the reader and yourself. Think of them like labeled boxes where you can store information to use later.",
+        "sample_question": "Can you explain what a variable is in your own words and give an example of how you might use one?"
+    },
+    {
+        "id": "loops",
+        "title": "Loops",
+        "summary": "Loops are used to repeat a block of code. For example, a 'for' loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string). A 'while' loop we can execute a set of statements as long as a condition is true. They save you from writing the same code over and over again.",
+        "sample_question": "What is the main difference between a for loop and a while loop?"
+    },
+    {
+        "id": "functions",
+        "title": "Functions",
+        "summary": "A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function. A function can return data as a result. Functions help break our program into smaller and modular chunks. As our program grows larger and larger, functions make it more organized and manageable.",
+        "sample_question": "Why do we use functions in programming, and what are parameters?"
+    }
+]
