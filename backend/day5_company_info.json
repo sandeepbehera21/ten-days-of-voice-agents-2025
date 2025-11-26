@@ -1,0 +1,69 @@
+{
+    "company": "Murf.ai",
+    "description": "Murf.ai is an AI-powered text-to-speech platform that generates human-like voiceovers in minutes. It offers a wide range of realistic voices in multiple languages and accents, making it suitable for creating voiceovers for videos, podcasts, e-learning, and more.",
+    "pricing": {
+        "Free": {
+            "price": "$0",
+            "features": [
+                "10 mins of voice generation",
+                "10 mins of transcription",
+                "Access to all 200+ voices",
+                "No downloads",
+                "No commercial rights"
+            ]
+        },
+        "Creator": {
+            "price": "$29/month (billed monthly) or $19/month (billed annually)",
+            "features": [
+                "Unlimited downloads",
+                "24 hours of voice generation per year",
+                "Commercial usage rights",
+                "Access to all 200+ voices & languages"
+            ]
+        },
+        "Business": {
+            "price": "$75/month (billed monthly) or $66/month (billed annually)",
+            "features": [
+                "96 hours of voice generation per year",
+                "Collaboration features",
+                "AI Voice Changer",
+                "Priority support"
+            ]
+        },
+        "Enterprise": {
+            "price": "Custom",
+            "features": [
+                "Unlimited voice generation",
+                "Dedicated Account Manager",
+                "SSO",
+                "Security assessment"
+            ]
+        }
+    },
+    "faqs": [
+        {
+            "question": "What is Murf.ai?",
+            "answer": "Murf.ai is an AI voice generator that allows you to create realistic text-to-speech voiceovers for various content types like videos, presentations, and more."
+        },
+        {
+            "question": "Do you have a free plan?",
+            "answer": "Yes, we offer a Free plan that includes 10 minutes of voice generation and access to all voices to try out the platform. However, it does not include downloads or commercial rights."
+        },
+        {
+            "question": "Can I use the voices for commercial purposes?",
+            "answer": "Yes, commercial rights are included in our paid plans (Creator, Business, and Enterprise). The Free plan does not grant commercial rights."
+        },
+        {
+            "question": "What file formats can I export?",
+            "answer": "You can export your voiceovers in MP3 and WAV formats."
+        },
+        {
+            "question": "Do you support multiple languages?",
+            "answer": "Yes, Murf.ai supports over 20 languages and provides a wide variety of accents."
+        },
+        {
+            "question": "How secure is my data?",
+            "answer": "We take data security seriously. We use enterprise-grade encryption and are compliant with GDPR and CCPA."
+        }
+    ]
+}
