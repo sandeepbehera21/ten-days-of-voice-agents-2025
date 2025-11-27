@@ -56,3 +56,7 @@ tasks:
     interactive: true
     cmds:
       - "uv run src/agent.py dev"
+  run-day4:
+    interactive: true
+    cmds:
+      - "uv run src/agent_day4.py dev"

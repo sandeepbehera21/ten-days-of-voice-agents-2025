@@ -1,0 +1,18 @@
+2025-11-27 08:09:46,075 - day6-fraud-agent - INFO - Connecting to room voice_assistant_room_5575
+2025-11-27 08:10:01,550 - day6-fraud-agent - INFO - Looking up case for: John
+2025-11-27 08:10:42,582 - day6-fraud-agent - INFO - Looking up case for: John
+2025-11-27 08:16:22,356 - day6-fraud-agent - INFO - Connecting to room voice_assistant_room_7632
+2025-11-27 08:16:36,916 - day6-fraud-agent - INFO - Looking up case for: John
+2025-11-27 08:17:30,286 - day6-fraud-agent - INFO - Updating case 1 to safe: Customer confirmed the transaction as legitimate.
+2025-11-27 08:47:39,489 - day6-fraud-agent - INFO - Connecting to room voice_assistant_room_6163
+2025-11-27 08:47:56,940 - day6-fraud-agent - INFO - Looking up case for: j
+2025-11-27 08:48:36,688 - day6-fraud-agent - INFO - Connecting to room voice_assistant_room_5762
+2025-11-27 08:48:54,020 - day6-fraud-agent - INFO - Looking up case for: Jay
+2025-11-27 08:49:12,516 - day6-fraud-agent - INFO - Looking up case for: Jin
+2025-11-27 08:49:35,591 - day6-fraud-agent - INFO - Looking up case for: Jane
+2025-11-27 08:51:31,563 - day6-fraud-agent - INFO - Connecting to room voice_assistant_room_8023
+2025-11-27 08:51:46,679 - day6-fraud-agent - INFO - Looking up case for: John
+2025-11-27 08:53:08,791 - day6-fraud-agent - INFO - Connecting to room voice_assistant_room_9458
+2025-11-27 08:53:22,797 - day6-fraud-agent - INFO - Looking up case for: John
+2025-11-27 08:53:59,869 - day6-fraud-agent - INFO - Updating case 1 to safe: Customer confirmed transaction.
+2025-11-27 08:54:05,384 - day6-fraud-agent - ERROR - Error updating case: database is locked
