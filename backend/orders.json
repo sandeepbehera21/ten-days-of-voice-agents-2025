@@ -1,0 +1,44 @@
+[
+  {
+    "order_id": "ord_1764298061",
+    "timestamp": "2025-11-28T08:17:41.842715",
+    "status": "received",
+    "items": [
+      {
+        "id": "prod_001",
+        "name": "Organic Bananas",
+        "price": 0.69,
+        "quantity": 1
+      }
+    ],
+    "total": 0.69
+  },
+  {
+    "order_id": "ord_1764299977",
+    "timestamp": "2025-11-28T08:49:37.690712",
+    "status": "received",
+    "items": [
+      {
+        "id": "prod_002",
+        "name": "Red Apples",
+        "price": 1.29,
+        "quantity": 4
+      }
+    ],
+    "total": 5.16
+  },
+  {
+    "order_id": "ord_1764301315",
+    "timestamp": "2025-11-28T09:11:55.099526",
+    "status": "received",
+    "items": [
+      {
+        "id": "prod_002",
+        "name": "Red Apples",
+        "price": 1.29,
+        "quantity": 6
+      }
+    ],
+    "total": 7.74
+  }
+]
