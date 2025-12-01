@@ -1,0 +1,69 @@
+2025-12-01 08:57:55,327 - day10-improv - INFO - Connecting to room voice_assistant_room_2592
+2025-12-01 08:59:19,223 - day10-improv - INFO - Connecting to room voice_assistant_room_2592
+2025-12-01 09:03:01,019 - day10-improv - INFO - Connecting to room voice_assistant_room_1924
+2025-12-01 09:13:46,003 - day10-improv - INFO - Connecting to room voice_assistant_room_9223
+2025-12-01 09:20:21,688 - day10-improv - INFO - Connecting to room voice_assistant_room_9223
+2025-12-01 09:28:53,302 - day10-improv - INFO - Connecting to room voice_assistant_room_9223
+2025-12-01 09:42:33,467 - day10-improv - INFO - Connecting to room voice_assistant_room_6602
+2025-12-01 09:43:35,762 - day10-improv - INFO - Connecting to room voice_assistant_room_1172
+2025-12-01 09:44:44,774 - day10-improv - INFO - Connecting to room voice_assistant_room_4489
+2025-12-01 09:47:16,777 - day10-improv - INFO - Connecting to room voice_assistant_room_8045
+2025-12-01 09:47:46,832 - day10-improv - INFO - Connecting to room voice_assistant_room_5577
+2025-12-01 09:57:51,814 - day10-improv - INFO - Connecting to room voice_assistant_room_2675
+2025-12-01 09:59:58,256 - day10-improv - INFO - Connecting to room voice_assistant_room_7349
+2025-12-01 10:09:40,410 - day10-improv - INFO - Connecting to room voice_assistant_room_5293
+2025-12-01 10:09:58,046 - day10-improv - INFO - Connecting to room voice_assistant_room_4653
+2025-12-01 10:10:34,573 - day10-improv - INFO - Connecting to room voice_assistant_room_2200
+2025-12-01 10:11:42,151 - day10-improv - INFO - Connecting to room voice_assistant_room_4079
+2025-12-01 10:14:36,928 - day10-improv - INFO - Connecting to room voice_assistant_room_2665
+2025-12-01 10:14:39,591 - day10-improv - INFO - Connecting to room voice_assistant_room_7383
+2025-12-01 10:15:49,308 - day10-improv - INFO - Connecting to room voice_assistant_room_2665
+2025-12-01 10:15:49,465 - day10-improv - ERROR - Error in entrypoint: name 'session' is not defined
+Traceback (most recent call last):
+  File "C:\Users\sande\Desktop\ten-days-of-voice-agents-2025\backend\src\day10_improv_agent.py", line 188, in entrypoint
+    await session.start(agent=agent, room=ctx.room)
+NameError: name 'session' is not defined
+2025-12-01 10:16:56,353 - day10-improv - INFO - Connecting to room voice_assistant_room_7383
+2025-12-01 10:16:56,528 - day10-improv - ERROR - Error in entrypoint: name 'session' is not defined
+Traceback (most recent call last):
+  File "C:\Users\sande\Desktop\ten-days-of-voice-agents-2025\backend\src\day10_improv_agent.py", line 188, in entrypoint
+    await session.start(agent=agent, room=ctx.room)
+NameError: name 'session' is not defined
+2025-12-01 10:45:35,170 - day10-improv - INFO - Connecting to room voice_assistant_room_6640
+2025-12-01 10:45:35,286 - day10-improv - ERROR - Error in entrypoint: name 'session' is not defined
+Traceback (most recent call last):
+  File "C:\Users\sande\Desktop\ten-days-of-voice-agents-2025\backend\src\day10_improv_agent.py", line 188, in entrypoint
+    await session.start(agent=agent, room=ctx.room)
+NameError: name 'session' is not defined
+2025-12-01 10:49:05,882 - day10-improv - INFO - Connecting to room voice_assistant_room_6640
+2025-12-01 10:51:29,877 - day10-improv - INFO - Connecting to room voice_assistant_room_1867
+2025-12-01 10:58:18,483 - day10-improv - INFO - Connecting to room voice_assistant_room_2025
+2025-12-01 11:00:47,119 - day10-improv - INFO - Connecting to room voice_assistant_room_2025
+2025-12-01 11:03:04,236 - day10-improv - INFO - Connecting to room voice_assistant_room_8130
+2025-12-01 11:05:16,682 - day10-improv - INFO - Connecting to room voice_assistant_room_8130
+2025-12-01 11:05:41,590 - day10-improv - INFO - Connecting to room voice_assistant_room_8130
+2025-12-01 11:07:58,509 - day10-improv - INFO - Connecting to room voice_assistant_room_4282
+2025-12-01 11:11:08,002 - day10-improv - INFO - Connecting to room voice_assistant_room_5233
+2025-12-01 11:12:34,144 - day10-improv - INFO - Connecting to room voice_assistant_room_8941
+2025-12-01 11:16:41,836 - day10-improv - INFO - Connecting to room voice_assistant_room_8941
+2025-12-01 11:18:25,857 - day10-improv - INFO - Connecting to room voice_assistant_room_7388
+2025-12-01 11:20:09,893 - day10-improv - INFO - Connecting to room voice_assistant_room_7388
+2025-12-01 11:21:20,020 - day10-improv - INFO - Connecting to room voice_assistant_room_5328
+2025-12-01 11:23:03,054 - day10-improv - INFO - Connecting to room voice_assistant_room_5328
+2025-12-01 11:34:34,147 - day10-improv - INFO - Connecting to room voice_assistant_room_4354
+2025-12-01 11:35:46,886 - day10-improv - INFO - Connecting to room voice_assistant_room_4354
+2025-12-01 11:37:28,260 - day10-improv - INFO - Connecting to room voice_assistant_room_3119
+2025-12-01 11:39:43,819 - day10-improv - INFO - Connecting to room voice_assistant_room_3119
+2025-12-01 11:44:24,649 - day10-improv - INFO - Connecting to room voice_assistant_room_6928
+2025-12-01 11:46:03,366 - day10-improv - INFO - Connecting to room voice_assistant_room_6928
+2025-12-01 11:50:49,258 - day10-improv - INFO - Connecting to room voice_assistant_room_579
+2025-12-01 11:51:26,751 - day10-improv - INFO - Connecting to room voice_assistant_room_5974
+2025-12-01 11:52:43,688 - day10-improv - INFO - Connecting to room voice_assistant_room_579
+2025-12-01 11:53:39,993 - day10-improv - INFO - Connecting to room voice_assistant_room_5974
+2025-12-01 12:08:28,541 - day10-improv - INFO - Connecting to room voice_assistant_room_6783
+2025-12-01 12:10:02,729 - day10-improv - INFO - Connecting to room voice_assistant_room_6783
+2025-12-01 12:10:21,246 - day10-improv - INFO - Connecting to room voice_assistant_room_3410
+2025-12-01 12:12:35,251 - day10-improv - INFO - Connecting to room voice_assistant_room_6783
+2025-12-01 12:12:57,431 - day10-improv - INFO - Connecting to room voice_assistant_room_3410
+2025-12-01 12:12:57,433 - day10-improv - INFO - Connecting to room voice_assistant_room_6783
+2025-12-01 17:40:47,690 - day10-improv - INFO - Connecting to room voice_assistant_room_4958

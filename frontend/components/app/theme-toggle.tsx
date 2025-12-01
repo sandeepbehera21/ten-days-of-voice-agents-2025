@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { MonitorIcon, MoonIcon, SunIcon } from '@phosphor-icons/react';
+import { MonitorIcon, MoonIcon, SunIcon, Moon, Sun, Desktop } from '@phosphor-icons/react';
 import { THEME_MEDIA_QUERY, THEME_STORAGE_KEY, cn } from '@/lib/utils';
 
 const THEME_SCRIPT = `
@@ -72,28 +72,31 @@ export function ThemeToggle({ className }: ThemeToggleProps) {
     >
       <span className="sr-only">Color scheme toggle</span>
       <button
+        suppressHydrationWarning
         type="button"
         onClick={() => handleThemeChange('dark')}
         className="cursor-pointer p-1 pl-1.5"
       >
         <span className="sr-only">Enable dark color scheme</span>
-        <MoonIcon size={16} weight="bold" className={cn(theme !== 'dark' && 'opacity-25')} />
+        <Moon size={16} weight={theme === 'dark' ? 'fill' : 'regular'} />
       </button>
       <button
+        suppressHydrationWarning
         type="button"
         onClick={() => handleThemeChange('light')}
         className="cursor-pointer px-1.5 py-1"
       >
         <span className="sr-only">Enable light color scheme</span>
-        <SunIcon size={16} weight="bold" className={cn(theme !== 'light' && 'opacity-25')} />
+        <Sun size={16} weight={theme === 'light' ? 'fill' : 'regular'} />
       </button>
       <button
+        suppressHydrationWarning
         type="button"
         onClick={() => handleThemeChange('system')}
         className="cursor-pointer p-1 pr-1.5"
       >
         <span className="sr-only">Enable system color scheme</span>
-        <MonitorIcon size={16} weight="bold" className={cn(theme !== 'system' && 'opacity-25')} />
+        <Desktop size={16} weight={theme === 'system' ? 'fill' : 'regular'} />
       </button>
     </div>
   );
